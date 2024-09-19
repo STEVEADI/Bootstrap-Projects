@@ -23,4 +23,4 @@ A collection of modern, responsive websites built using the **Bootstrap** framew
 4. Customize the code as needed to suit your own projects.
 
 ## About Bootstrap
-Bootstrap is a powerful front-end framework that helps create responsive, mobile-first web designs with ease. Its pre-built components and flexible grid system make it a go-to for rapid web development. I have uploaded the ZIP files of the projects that I created and index.html,index.css.index.js are sample files.
+Bootstrap is a powerful front-end framework that helps create responsive, mobile-first web designs with ease. Its pre-built components and flexible grid system make it a go-to for rapid web development. I have uploaded the ZIP files of the projects that I created and index.html,index.css.index.js are just sample files.
